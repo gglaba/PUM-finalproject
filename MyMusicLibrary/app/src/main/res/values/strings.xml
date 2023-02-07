@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StudentHardLife</string>
+    <string name="rationale_camera">This app needs permission for the camera app</string>
+</resources>
